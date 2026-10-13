@@ -37,4 +37,4 @@ Implementation of:
 
 ## Author
 
-Harsh Saini
+Deepak Mangla
